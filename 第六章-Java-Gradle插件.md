@@ -191,7 +191,7 @@ Gradle为我们提供了idea和eclipse插件来帮助我们生成不同IDE下的
 
 Java工程是我们最熟悉最常用的工程，Java插件对此支持非常好，我们花了10个小节介绍Java，但是由于篇幅所限，还是有非常多的功能不能一一介绍，比如单元测试报告，Jar包的Manifest清单配置等等，如果大家有兴趣，可以想看相关文档，加深对Java插件的理解，理解了Java插件后，对于我们理解下章Android插件就容易多了。
 
-* * -
+---
     本文属自学历程, 仅供参考
     详情请支持原书 [Android Gradle权威指南](https://yuedu.baidu.com/ebook/14a722970740be1e640e9a3e)
 
